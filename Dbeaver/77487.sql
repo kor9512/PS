@@ -2,7 +2,7 @@
 /*
 	 1. 헤비 유저의 HOST_ID를 찾아 낸다
 	 2. 해당 HOST_ID에 해당되는 컬럼을 ID ASC 순으로 출력한다.
-*/ 
+*/  
 use ps;
 
 DROP TABLE IF EXISTS PLACES;
