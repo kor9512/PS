@@ -1,4 +1,9 @@
 commit 방법 
-ex. _tiketNumber = CAREER-01
-[_tiketNumber] 해야 할 일 : _tiketName
-[_tiketNumber] 완료 : _tiketName
+[_tiketNumber] _status : _tiketName
+
+ex. [CAREER-6] 진행 중 : test
+
+status
+해야 할 일 
+진행 중
+완료 
