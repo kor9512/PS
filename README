@@ -1,3 +1,4 @@
 commit 방법 
-[CAREER] 해야 할 일 : _tiketName
-[CAREER] 완료 : _tiketName
+ex. _tiketNumber = CAREER-01
+[_tiketNumber] 해야 할 일 : _tiketName
+[_tiketNumber] 완료 : _tiketName
